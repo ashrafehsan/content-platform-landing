@@ -41,7 +41,7 @@ Built with pure **HTML, CSS, and JavaScript**.
 
 ## 🖼️ Screenshots (لقطات شاشة)
 ### Desktop (سطح المكتب)
-![Desktop Preview](Desktop.png)
+![Desktop Preview](DeskTop.png)
 
 ### Mobile (الموبايل)
 ![Mobile Preview](Mobile.png)
