@@ -51,7 +51,7 @@ Built with pure **HTML, CSS, and JavaScript**.
 ## ⚙️ How to Run Locally (طريقة التشغيل محليًا)
 1. Clone the repo:
    ```bash
-   git clone https://github.com/USERNAME/content-platform-landing.git
+   git clone https://github.com/ashrafehsan/content-platform-landing.git
    ```
 2. Open `index.html` in any modern browser.
 
