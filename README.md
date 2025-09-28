@@ -44,7 +44,7 @@ Built with pure **HTML, CSS, and JavaScript**.
 ![Desktop Preview](DeskTop.png)
 
 ### Mobile (الموبايل)
-![Mobil Preview](Mobile.png)
+![Mobile Preview](Mobil.png)
 
 ---
 
