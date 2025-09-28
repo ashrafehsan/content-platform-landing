@@ -41,10 +41,10 @@ Built with pure **HTML, CSS, and JavaScript**.
 
 ## 🖼️ Screenshots (لقطات شاشة)
 ### Desktop (سطح المكتب)
-![Desktop Preview](https://via.placeholder.com/1000x600.png?text=Desktop+Preview)
+![Desktop Preview](Desktop.png)
 
 ### Mobile (الموبايل)
-![Mobile Preview](https://via.placeholder.com/400x700.png?text=Mobile+Preview)
+![Mobile Preview](Mobile.png)
 
 ---
 
